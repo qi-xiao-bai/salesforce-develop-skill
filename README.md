@@ -26,6 +26,11 @@
   一个面向规范化 Salesforce 开发流程、以文档优先为核心的 Codex Skill。
 </p>
 
+<p align="center">
+  Built for teams and solo developers who want Salesforce changes to stay aligned with task documents, reviewable implementation flows, and controlled delivery boundaries.<br>
+  适用于希望将 Salesforce 代码改动始终保持在任务文档、可审查实现链路与受控交付边界之内的团队与个人开发者。
+</p>
+
 [中文介绍](#中文介绍)
 
 ## English
