@@ -1,6 +1,30 @@
+<p align="center">
+  <a href="https://github.com/qi-xiao-bai/salesforce-develop-skill/blob/main/LICENSE.txt">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT">
+  </a>
+  <a href="https://github.com/qi-xiao-bai/salesforce-develop-skill">
+    <img src="https://img.shields.io/badge/Codex-Skill-blue" alt="Codex Skill">
+  </a>
+  <a href="https://github.com/qi-xiao-bai/salesforce-develop-skill">
+    <img src="https://img.shields.io/badge/Salesforce-Apex-1798c1" alt="Salesforce Apex">
+  </a>
+  <a href="https://github.com/qi-xiao-bai/salesforce-develop-skill">
+    <img src="https://img.shields.io/badge/Workflow-Documentation--First-6f42c1" alt="Documentation First">
+  </a>
+  <a href="https://github.com/qi-xiao-bai/salesforce-develop-skill">
+    <img src="https://img.shields.io/badge/Backup-Controlled-orange" alt="Controlled Backup">
+  </a>
+  <a href="https://github.com/qi-xiao-bai/salesforce-develop-skill">
+    <img src="https://img.shields.io/badge/sfdx-Forbidden-critical" alt="No sfdx">
+  </a>
+</p>
+
 # Salesforce Develop Skill
 
-An opinionated Codex skill for Salesforce engineering work that emphasizes implementation discipline, documentation awareness, and controlled change management.
+<p align="center">
+  A documentation-first Codex skill for disciplined Salesforce development workflows.<br>
+  一个面向规范化 Salesforce 开发流程、以文档优先为核心的 Codex Skill。
+</p>
 
 [中文介绍](#中文介绍)
 
